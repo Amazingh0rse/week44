@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+.outer {
+  background-color: lavender;
+
+  padding: 15px;
+  padding-bottom: 1em;
+}
+.allTodos {
+  background-color: rgb(185, 182, 176);
+  font-size: 22px;
+  margin: 1px;
+  margin-left: 18px;
+  padding: 15px;
+}
+
+.new-todo {
+  background: rgb(165, 172, 165);
+  padding: 15px;
+  margin-left: 15px;
+}
+
+.count-presenter {
+  background-color: magenta;
+  margin: 4px;
+  padding: 1px;
+  text-align: center;
+}
+
+.count-btns {
+  text-align: center;
+  background: lightsalmon;
+  margin: 0px;
+  padding: 5px;
+}
+
+.count-btn button {
+  margin: 2px;
+}

@@ -1,0 +1,46 @@
+{
+  "api": [
+    {
+      "id": "59dde0def94062f06bcc1211",
+      "age": 27,
+      "name": "Ivanna Humpalot",
+      "gender": "female",
+      "email": "Ivanna@Humpalot.com"
+    },
+    {
+      "id": "59dde0deb5516ea4f23590f9",
+      "age": 31,
+      "name": "Fat Bastard",
+      "gender": "male",
+      "email": "getinmy@Belly.com"
+    },
+    {
+      "id": "59dde0de06024380d2fe4f86",
+      "age": 24,
+      "name": "Austin Danger Powers",
+      "gender": "female",
+      "email": "austin@powers.com"
+    },
+    {
+      "id": "59dde0de47b61d96286c4f18",
+      "age": 31,
+      "name": "Mini Me",
+      "gender": "male",
+      "email": "Doyouhaveacloneinsideyou@doyouwantone.com"
+    },
+    {
+      "age": 23,
+      "name": "Fuk yu",
+      "gender": "female",
+      "email": "Fuk@yu.com",
+      "id": "V0-9UWR"
+    },
+    {
+      "age": 23,
+      "name": "Fuk Mi",
+      "gender": "female",
+      "email": "Fuk@mi.com",
+      "id": "dC_7Z8b"
+    }
+  ]
+}
