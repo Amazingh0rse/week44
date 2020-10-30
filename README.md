@@ -51,6 +51,8 @@ Her vælger vi at henvise til hele ListDemo.jsx filen, da der her gøres brug af
   7. Kunne forklare og demonstrere begrebet "Lifting State" i React
   
 Lifting state vil sige at man løfter data fra en child til en parrent komponent. Hvis man vil have videre ført data fra en child komponent til et andet child komponent skal ens data først forbi parrent komponent. Dvs. man ikke kan gå fra child til child komponent. 
+
 Eks: https://github.com/Amazingh0rse/week44/blob/main/thursday/thursday/src/LiftingUp.js
+
 Se i LiftingUp.js. Her har vi en parrent komponent (StartDemo) i linje 20 og to child komponenter, InputComp i linje 34 og ShowComp i linje 40. 
 InputComp sætter state på en value, som gemmes i parrent komponent, hvorefter ShowComp kan se den nye og opdateret state. State bliver ændret i parrent komponent, hvorefter child komponenterne gør brug af props, da de kun skal gøre brug af read-only.
